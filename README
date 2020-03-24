@@ -1,0 +1,7 @@
+Module based on the Arduino Duemilanove
+  - Utilitzes CANBUS communication
+  - Small (~3" TFT style) screen
+  
+* Onboard Wideband Controller
+* Output for knock listener
+* MAP sensor input?
